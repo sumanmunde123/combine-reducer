@@ -1,0 +1,23 @@
+.table {
+  width: 60%;
+  text-align: center;
+  border: 1px solid black;
+}
+td,
+th,
+tr {
+  border: 1px solid black;
+}
+button {
+  font-size: 15px;
+}
+.todoInput {
+  width: 50%;
+  margin: auto;
+  margin-top: 2%;
+}
+.todoInput + div {
+  width: 60%;
+  margin: auto;
+  margin-top: 2%;
+}

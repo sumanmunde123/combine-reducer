@@ -1,0 +1,11 @@
+.loginForm {
+  margin: auto;
+  width: 50%;
+}
+
+form > input {
+  margin-top: 5%;
+  width: 60%;
+  height: 40px;
+  font-size: 15px;
+}

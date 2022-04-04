@@ -1,0 +1,18 @@
+* {
+  text-decoration: none;
+}
+.navbar {
+  background-color: tomato;
+  display: flex;
+  justify-content: space-around;
+  height: 8vh;
+}
+.navbar > div {
+  margin-top: auto;
+  margin-bottom: auto;
+}
+a {
+  color: aliceblue;
+  font-weight: 400;
+  font-size: 20px;
+}
